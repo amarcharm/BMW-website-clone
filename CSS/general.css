@@ -1,0 +1,107 @@
+
+.mid-text {
+  font-family: Exo, Arial;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  font-size:40px;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+  padding:0;
+  overflow-x: hidden;
+}
+
+
+.image-1 {
+  width: 1550px;
+}
+
+.image {
+  /* position: relative; */
+}
+
+.image1-text {
+  position: absolute;
+  bottom:25px;
+  color: white;
+  font-family: exo,arial;
+  padding-left:50px;
+  font-weight: bold;
+
+}
+
+.mid-section {
+  font-family: Exo, Arial;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  font-size:20px;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.buttons {
+  height: 40px;
+  background-color: white;
+  border-style: bold;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px; 
+}
+
+.image-5 {
+  width:1550px;
+  margin-top: 20px;
+}
+
+.image-2 {
+  margin-left: 750px;
+  height:500px;
+  width:780px;
+}
+
+.image-4 {
+  margin-right: 300px;
+  height:500px;
+}
+
+.image-3 {
+  height: 100%; 
+  width: 100%;
+}
+
+.offer {
+  position:relative;
+}
+
+.offer-text {
+  position: absolute;
+  bottom:40px;
+  color: white;
+  font-family: exo,arial;
+  padding-left:50px;
+  font-weight: bold;
+
+}
+
+.series-3 {
+  position: relative;
+}
+
+.series3-text {
+  position: absolute;
+  position: absolute;
+  bottom:30px;
+  color: white;
+  font-family: exo,arial;
+  padding-left:50px;
+  font-weight: bold;
+}
+

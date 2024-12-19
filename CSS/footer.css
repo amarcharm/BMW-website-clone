@@ -1,0 +1,24 @@
+.footer{
+  background-color: rgba(241, 241, 241, 0.849);
+  padding:70px 20px;
+  font-family: Exo,arial;
+  font-size: 15px;
+}
+
+ul{
+  list-style: none;
+  line-height:30px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-col {
+  width:25%;
+}
+
+h4 {
+  padding-left:40px;
+}

@@ -1,0 +1,29 @@
+
+.header {
+  height: 60px;
+  background-color: black;
+  display: flex;
+  padding-left: 80px;
+  justify-content: space-evenly;
+  padding-right: 500px;
+  width: 1000px;
+}
+
+.header-text:hover {
+  text-decoration: underline;
+  margin-top:10px;
+}
+
+.header-text {
+  font-family: Exo,arial;
+  color: white;
+  font:bolder;
+  cursor: pointer;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 18px;
+  
+
+}
+
+
